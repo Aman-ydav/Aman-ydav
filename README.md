@@ -128,19 +128,21 @@ const Aman = {
 
 <div align="center">
 
-<a href="https://github.com/Aman-ydav/spark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-ydav&repo=spark&theme=radical&hide_border=true" />
+<a href="https://github.com/Aman-ydav/Roomezy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-ydav&repo=Roomezy&theme=radical&hide_border=true" />
 </a>
 
+
+<a href="https://github.com/Aman-ydav/CareSync">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-ydav&repo=CareSync&theme=radical&hide_border=true" />
+</a>
 
 <a href="https://github.com/Aman-ydav/diabetes-prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-ydav&repo=diabetes-prediction&theme=radical&hide_border=true" />
 </a>
-
-<a href="https://github.com/Aman-ydav/fleetPro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-ydav&repo=fleetPro&theme=radical&hide_border=true" />
+<a href="https://github.com/Aman-ydav/spark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-ydav&repo=spark&theme=radical&hide_border=true" />
 </a>
-
 </div>
 
 <br />
