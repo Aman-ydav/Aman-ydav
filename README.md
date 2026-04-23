@@ -99,26 +99,12 @@ const Aman = {
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aman-ydav&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
-</div>
-
----
-
 ## 📈 Coding Statistics
 
 <div align="center">
   
 ### LeetCode Progress
 <img src="https://leetcard.jacoblin.cool/Aman-ydav?theme=dark&font=Karma&ext=heatmap" />
-
-### Coding Streak & Activity
-- 🔥 **Current Streak:** Solving DSA problems daily
-- 📊 **LeetCode Problems:** 180+ solved and counting
-- 🎯 **Focus Areas:** Dynamic Programming, Trees, Graphs
-- 🏆 **Contest Rating:** Actively participating in weekly contests
 
 </div>
 
